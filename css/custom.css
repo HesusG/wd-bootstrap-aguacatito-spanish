@@ -2,3 +2,6 @@
    color: var(--bs-primary)!important;
 }
 
+.lead-text{
+   font-family: var(--bs-font-serif)!important;
+}
