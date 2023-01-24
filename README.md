@@ -15,3 +15,7 @@ The website uses HTML, CSS and JavaScript, and it utilizes the power of Bootstra
 - CSS
 - Javascript
 
+## Preview
+
+![aguacatito](aguacatito.png)
+
